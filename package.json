@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.69.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Kade-Powell/HiC_Purple_VSC_Theme.git"
+  },
   "categories": [
     "Themes"
   ],
