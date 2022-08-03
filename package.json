@@ -1,0 +1,21 @@
+{
+  "name": "hic-purple",
+  "displayName": "HiC Purple",
+  "description": "High contrast shades of purple theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "HiC Purple",
+        "uiTheme": "hc-black",
+        "path": "./themes/HiC Purple-color-theme.json"
+      }
+    ]
+  }
+}
