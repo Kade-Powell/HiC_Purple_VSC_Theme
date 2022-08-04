@@ -25,6 +25,11 @@
         "label": "HiC Green",
         "uiTheme": "hc-black",
         "path": "./themes/HiC Green-color-theme.json"
+      },
+      {
+        "label": "HiC Dankula",
+        "uiTheme": "hc-black",
+        "path": "./themes/HiC Dankula-color-theme.json"
       }
     ]
   }
