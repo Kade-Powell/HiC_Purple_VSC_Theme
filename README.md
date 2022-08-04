@@ -1,16 +1,27 @@
-# hic-purple README
+# Hi-C Color Themes
 
-## Working with Markdown
+### Some high contrast color themes
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-## For more information
+#### Cobalt
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Cobalt](C:\Users\kapowell\OneDrive - Cox Communications\Desktop\Dev\HiC_VSC_Theme\images\Cobalt.PNG)
 
-**Enjoy!**
+
+
+#### Dankula
+
+![Dankula](C:\Users\kapowell\OneDrive - Cox Communications\Desktop\Dev\HiC_VSC_Theme\images\Dankula.PNG)
+
+
+
+#### Purple
+
+![Purple](C:\Users\kapowell\OneDrive - Cox Communications\Desktop\Dev\HiC_VSC_Theme\images\Purple.PNG)
+
+
+
+#### Green
+
+![Green](C:\Users\kapowell\OneDrive - Cox Communications\Desktop\Dev\HiC_VSC_Theme\images\Green.PNG)
