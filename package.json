@@ -30,6 +30,11 @@
         "label": "HiC Dankula",
         "uiTheme": "hc-black",
         "path": "./themes/HiC Dankula-color-theme.json"
+      },
+      {
+        "label": "HiC Cobalt",
+        "uiTheme": "hc-black",
+        "path": "./themes/HiC Cobalt-color-theme.json"
       }
     ]
   }
