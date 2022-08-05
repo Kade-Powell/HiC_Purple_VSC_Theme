@@ -4,16 +4,16 @@
 
 #### Cobalt
 
-![Cobalt](..\images\Cobalt.PNG)
+![Cobalt](images\Cobalt.PNG)
 
 #### Dankula
 
-![Dankula](..\images\Dankula.PNG)
+![Dankula](images\Dankula.PNG)
 
 #### Purple
 
-![Purple](..\images\Purple.PNG)
+![Purple](images\Purple.PNG)
 
 #### Green
 
-![Green](..\images\Green.PNG)
+![Green](images\Green.PNG)
