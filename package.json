@@ -2,7 +2,7 @@
   "name": "hic-color-theme",
   "displayName": "HiC Color Theme",
   "description": "High contrast theme",
-  "version": "0.3.4",
+  "version": "0.4.0",
   "engines": {
     "vscode": "^1.69.0"
   },
