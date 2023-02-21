@@ -35,6 +35,11 @@
         "label": "HiC Cobalt",
         "uiTheme": "hc-black",
         "path": "./themes/HiC Cobalt-color-theme.json"
+      },
+      {
+        "label": "HiC Jawbone",
+        "uiTheme": "hc-black",
+        "path": "./themes/HiC Jawbone-color-theme.json"
       }
     ]
   }
